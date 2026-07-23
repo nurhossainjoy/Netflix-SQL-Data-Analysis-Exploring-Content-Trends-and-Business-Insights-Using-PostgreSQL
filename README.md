@@ -1,5 +1,5 @@
 # 🎬 Netflix SQL Data Analysis
-![Netflix Logo] ( )
+![Netflix Logo] (https://github.com/nurhossainjoy/Netflix-SQL-Data-Analysis-Exploring-Content-Trends-and-Business-Insights-Using-PostgreSQL/blob/main/Logo/Logo.jpg)
 
 ## 📖 Project Overview
 
