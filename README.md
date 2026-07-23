@@ -1,4 +1,5 @@
 # 🎬 Netflix SQL Data Analysis
+![Netflix Logo] ( )
 
 ## 📖 Project Overview
 
